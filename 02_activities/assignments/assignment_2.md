@@ -22,7 +22,7 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      To improve the infographics, I’d offer the user the option to view the different infographics on the same page for ease of reference. I’d also try to standardize the color scheme across the different pages to make them seem more cohesive.
+      To improve upon the infographics, I’d offer the user the option to view the different infographics on the same page for ease of reference. I’d also try to standardize the color scheme across the different pages to make them seem more cohesive.
 
 
       
